@@ -1,6 +1,6 @@
 # sql_tutorials
 This repo contains a small sample of JSON records following the RudderStack event spec that can be used 
-to run the examples in the [Working with SQL Window Functions](https://www.cpard.xyz) tutorial.
+to run the examples in the [Working with SQL Window Functions](https://www.cpard.xyz/posts/sql_window_functions_tutorial/) tutorial.
 
 It contains 10,000 records in total.
 
